@@ -58,6 +58,7 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  
  ### Significant predictors for customer churn
  Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes, Total International Minutes. The following is a graph representing the order of significance:
+ 
  ![2024-02-13](https://github.com/shalomirungu/phase_3_project/assets/149403427/5524fb90-eb23-4ba9-ac16-fb9975f22a21)
  
  ## Conclusion and Recommendations 
