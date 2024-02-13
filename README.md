@@ -30,6 +30,7 @@ We performed the following machine learning models:
 * **Random forest**
 * **XGB Classifier**
 * **Tuned XGB Classifier**
+  
 We evaluated the precision, accuracy, recall, and f1 scores for these models.
 
 ## Modelling Results
