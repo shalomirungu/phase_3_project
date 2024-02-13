@@ -70,4 +70,8 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  5. Educational campaigns are launched to inform customers about international plan benefits and usage tips.
  6. The predictive model is constantly updated  based on new data to ensure its continued accuracy.
  7. A robust feedback mechanism is established to gather insights directly from customers.
+
+## Necessary Links
+* **Jupyter Notebook**
+* **Presentation**
                                                                               
