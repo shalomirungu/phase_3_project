@@ -51,7 +51,9 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  It has training and testing accuracy of 100% and 92.95% respectively but may be a sign of overfitting 
  
  **Tuned XGB Classifier**
- This is the best model, with training and testing set accuracy of 97.1% and 92.4% respectively
+ This is the best model, with training and testing set accuracy of 97.1% and 92.4% respectively. The following are a confusion matrix and ROC curve for the XGB classifier:
+ 
+![2024-02-13 (1)](https://github.com/shalomirungu/phase_3_project/assets/149403427/480d7347-ba5d-49cd-849b-93d1bee2df2f)
  
  ### Significant predictors for customer churn
  Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes, Total International Minutes. The following is a graph representing the order of significance:
