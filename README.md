@@ -22,13 +22,14 @@ We visualized the target(churn) using a pie chart, and the categorical and numer
 We first split the data into training and testing datasets, then used the SMOTE technique to deal with class imbalance in the target variable.
 
 ## Modelling
-We performed the following machine learning models: **a baseline using a dummy model**
-                                                    **Logistic regression model**
-                                                    **Decision Tree Model**
-                                                    **Tuned decision tree model**
-                                                    **Random forest**
-                                                    **XGB Classifier**
-                                                    **Tuned XGB Classifier**
+We performed the following machine learning models:
+**a baseline using a dummy model**
+**Logistic regression model**
+**Decision Tree Model**
+**Tuned decision tree model**
+**Random forest**
+**XGB Classifier**
+**Tuned XGB Classifier**
 We evaluated the precision, accuracy, recall, and f1 scores for these models.
 
 ## Modelling Results
