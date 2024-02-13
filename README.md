@@ -57,11 +57,11 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes, Total International Minutes. 
  ## Conclusion and Recommendations 
  The XGB model is the best as it had the best performance on both the training and testing sets. From this model, we recommend that:
-               1. Targeted pricing strategies, discounts, or loyalty programs are implemented to manage and reduce total day charges for customers at risk of churn.
-               2. Personalized offerings or promotions for international services are considered to align with the customers' needs.
-               3. Voicemail services are evaluated and enhanced, considering additional features or personalized messaging to increase customer engagement.
-               4. A detailed analysis of customer behaviors in different areas is done to ensure implementation of region-specific strategies or promotions to address localized concerns.
-               5. Educational campaigns are launched to inform customers about international plan benefits and usage tips.
-               6. The predictive model is constantly updated  based on new data to ensure its continued accuracy.
-               7. A robust feedback mechanism is established to gather insights directly from customers.
+ 1. Targeted pricing strategies, discounts, or loyalty programs are implemented to manage and reduce total day charges for customers at risk of churn.
+ 2. Personalized offerings or promotions for international services are considered to align with the customers' needs.
+ 3. Voicemail services are evaluated and enhanced, considering additional features or personalized messaging to increase customer engagement.
+ 4. A detailed analysis of customer behaviors in different areas is done to ensure implementation of region-specific strategies or promotions to address localized concerns.
+ 5. Educational campaigns are launched to inform customers about international plan benefits and usage tips.
+ 6. The predictive model is constantly updated  based on new data to ensure its continued accuracy.
+ 7. A robust feedback mechanism is established to gather insights directly from customers.
                                                                               
