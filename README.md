@@ -55,6 +55,7 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  
  ### Significant predictors for customer churn
  Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes, Total International Minutes. 
+ 
  ## Conclusion and Recommendations 
  The XGB model is the best as it had the best performance on both the training and testing sets. From this model, we recommend that:
  1. Targeted pricing strategies, discounts, or loyalty programs are implemented to manage and reduce total day charges for customers at risk of churn.
