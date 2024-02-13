@@ -53,6 +53,7 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
  **Tuned XGB Classifier**
  This is the best model, with training and testing set accuracy of 97.1% and 92.4% respectively. The following are a confusion matrix and ROC curve for the XGB classifier:
  
+![2024-02-13 (2)](https://github.com/shalomirungu/phase_3_project/assets/149403427/1f8ed98d-b345-4f26-b75b-74d8aaa37c62) 
 ![2024-02-13 (1)](https://github.com/shalomirungu/phase_3_project/assets/149403427/480d7347-ba5d-49cd-849b-93d1bee2df2f)
  
  ### Significant predictors for customer churn
