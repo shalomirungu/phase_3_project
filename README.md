@@ -1,5 +1,5 @@
 # **PREDICTION OF CUSTOMER CHURN**
-# **Authors;** Immaculate Mwendwa, Shalom Irungu, Stephen Kariuki, Stella Ndegwa, Muhsin Ahmed and Joan Wambua.
+## **Authors;** Immaculate Mwendwa, Shalom Irungu, Stephen Kariuki, Stella Ndegwa, Muhsin Ahmed and Joan Wambua.
 ## Project Overview
 ### Business Problem
 SyriaTel is a popular telecommunications company faced with the problem of customer churn, whereby, customers no longer see fit to work with the company. This is caused by various factors such as stiff competition from other telecommunications companies and the challenge of constantly enhancing its services to boost customer experiences in the rapidly changing market. We focus on helping SyriaTel understand the factors that cause customer churn and provide a predictive model that helps identify customers who are most likely to leave, enabling the company to proactively deal with the situation at hand.
@@ -9,7 +9,7 @@ SyriaTel is a popular telecommunications company faced with the problem of custo
 * To **Enable Strategic Decision-Making.**
 * To **Predict customer churn.**
   
-### Data
+## Data
 The data used is from SyriaTel customer records. It has 3333 customers and 21 features.
 
 ## Data Preparation
@@ -58,7 +58,7 @@ The model has an accuracy of  approximately 77%, recall of 0.69, precision of 0.
 ![2024-02-13 (2)](https://github.com/shalomirungu/phase_3_project/assets/149403427/1f8ed98d-b345-4f26-b75b-74d8aaa37c62) 
 ![2024-02-13 (1)](https://github.com/shalomirungu/phase_3_project/assets/149403427/480d7347-ba5d-49cd-849b-93d1bee2df2f)
  
- ### Significant predictors for customer churn
+ ## Significant predictors for customer churn
  Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes, Total International Minutes. The following is a graph representing the order of significance:
  
  ![2024-02-13](https://github.com/shalomirungu/phase_3_project/assets/149403427/5524fb90-eb23-4ba9-ac16-fb9975f22a21)
